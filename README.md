@@ -1,6 +1,8 @@
 # BBCA Stock Data Pipeline
-End-to-end data pipeline for BBCA (Bank Central Asia) stock data starting from 2021 to February 2026.
-This project covers data collection, preprocessing, feature engineering (technical & fundamental), and preparation of a modeling-ready dataset.
+An end-to-end financial data pipeline for BBCA (Bank Central Asia) stock data, covering data acquisition, preprocessing, feature engineering, and preparation of a modeling-ready dataset for machine learning and time-series forecasting.
+
+Built a modular financial data pipeline transforming raw BBCA market data into a machine learning-ready dataset with engineered technical and fundamental indicators.
+This project demonstrates practical skills in data engineering, financial data analysis, and ML-ready dataset construction.
 
 # Project Overview
 This repository contains a complete data preparation pipeline for stock price analysis and machine learning modeling using BBCA stock data.
@@ -18,3 +20,18 @@ To build a clean, reproducible, and modular data pipeline that prepares BBCA sto
 - Regression / classification modeling
 - Financial trend analysis
 - Research & experimentation
+
+# Tech Stack
+- Python
+- Pandas
+- NumPy
+- Requests
+- yFinance
+- Jupyter Notebook or Google Colab
+
+# Disclaimer
+This project is developed for educational and research purposes only.
+It does not constitute financial advice.
+
+# Author
+Yan Andhinaya Ardika
